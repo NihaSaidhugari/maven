@@ -1,2 +1,2 @@
 # maven
-test the vane project 
+test the maven project 
